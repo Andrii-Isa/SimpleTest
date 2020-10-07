@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.yayPay.UI.AutorizationUserTest" skipped="0" tests="1" time="35.04" timestamp="2020-10-07T15:03:21.782+03:00[Europe/Helsinki]"><testcase classname="io.yayPay.UI.AutorizationUserTest" name="Should be able to create new workflow with actions"/></testsuite>
